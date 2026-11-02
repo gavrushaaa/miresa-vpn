@@ -1,0 +1,14 @@
+node_modules/
+dist/
+server/data/
+server/server.exe
+server/*.sqlite
+server/*.sqlite-shm
+server/*.sqlite-wal
+server/*.db
+server/*.db-shm
+server/*.db-wal
+work/
+.playwright-cli/
+/server/
+/assets/
